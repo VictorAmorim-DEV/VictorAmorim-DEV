@@ -1,4 +1,4 @@
-## Olá, eu sou o Victor Amorim DEV
+## Olá, eu sou o Victor Amorim
 
 - 🔭 Hoje eu trabalho com ...
 - 🌱 Estou estudando BackEnd
