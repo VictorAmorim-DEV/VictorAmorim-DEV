@@ -6,7 +6,7 @@
 ## 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAmorim-DEV&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAmorim-DEV&hide_progress=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAmorim-DEV&layout=compact&langs_count=6&theme=highcontrast)
 
 ##
 
